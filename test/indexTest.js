@@ -13,7 +13,7 @@ describe("index.js", () => {
     })
   })
 
-  describe("defines mondayWork function expression as specified", function() {
+  describe("defines mondayWork funcction expression as specified", function() {
     it("function exists", function() {
       expect(mondayWork).to.exist
     })
